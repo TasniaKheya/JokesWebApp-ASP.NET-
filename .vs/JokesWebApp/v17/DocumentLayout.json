@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tkheya871\\source\\repos\\OnBoarding_Training\\JokesWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA53BC77-0CF4-44AB-8AFE-B9ECC56B2F3D}|JokesWebApp.csproj|c:\\users\\tkheya871\\source\\repos\\onboarding_training\\jokeswebapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AA53BC77-0CF4-44AB-8AFE-B9ECC56B2F3D}|JokesWebApp.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA53BC77-0CF4-44AB-8AFE-B9ECC56B2F3D}|JokesWebApp.csproj|C:\\Users\\tkheya871\\source\\repos\\OnBoarding_Training\\JokesWebApp\\controllers\\jokescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA53BC77-0CF4-44AB-8AFE-B9ECC56B2F3D}|JokesWebApp.csproj|solutionrelative:controllers\\jokescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA53BC77-0CF4-44AB-8AFE-B9ECC56B2F3D}|JokesWebApp.csproj|c:\\users\\tkheya871\\source\\repos\\onboarding_training\\jokeswebapp\\views\\jokes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA53BC77-0CF4-44AB-8AFE-B9ECC56B2F3D}|JokesWebApp.csproj|solutionrelative:views\\jokes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA53BC77-0CF4-44AB-8AFE-B9ECC56B2F3D}|JokesWebApp.csproj|c:\\users\\tkheya871\\source\\repos\\onboarding_training\\jokeswebapp\\views\\jokes\\showsearchform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA53BC77-0CF4-44AB-8AFE-B9ECC56B2F3D}|JokesWebApp.csproj|solutionrelative:views\\jokes\\showsearchform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA53BC77-0CF4-44AB-8AFE-B9ECC56B2F3D}|JokesWebApp.csproj|C:\\Users\\tkheya871\\source\\repos\\OnBoarding_Training\\JokesWebApp\\Data\\Migrations\\20240516142207_InitialSetUp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA53BC77-0CF4-44AB-8AFE-B9ECC56B2F3D}|JokesWebApp.csproj|solutionrelative:Data\\Migrations\\20240516142207_InitialSetUp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA53BC77-0CF4-44AB-8AFE-B9ECC56B2F3D}|JokesWebApp.csproj|C:\\Users\\tkheya871\\source\\repos\\OnBoarding_Training\\JokesWebApp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA53BC77-0CF4-44AB-8AFE-B9ECC56B2F3D}|JokesWebApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA53BC77-0CF4-44AB-8AFE-B9ECC56B2F3D}|JokesWebApp.csproj|C:\\Users\\tkheya871\\source\\repos\\OnBoarding_Training\\JokesWebApp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA53BC77-0CF4-44AB-8AFE-B9ECC56B2F3D}|JokesWebApp.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA53BC77-0CF4-44AB-8AFE-B9ECC56B2F3D}|JokesWebApp.csproj|C:\\Users\\tkheya871\\source\\repos\\OnBoarding_Training\\JokesWebApp\\models\\jokes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA53BC77-0CF4-44AB-8AFE-B9ECC56B2F3D}|JokesWebApp.csproj|solutionrelative:models\\jokes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA53BC77-0CF4-44AB-8AFE-B9ECC56B2F3D}|JokesWebApp.csproj|C:\\Users\\tkheya871\\source\\repos\\OnBoarding_Training\\JokesWebApp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA53BC77-0CF4-44AB-8AFE-B9ECC56B2F3D}|JokesWebApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\tkheya871\\source\\repos\\OnBoarding_Training\\JokesWebApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\tkheya871\\source\\repos\\OnBoarding_Training\\JokesWebApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-16T15:20:56.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tkheya871\\source\\repos\\OnBoarding_Training\\JokesWebApp\\Views\\Jokes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Jokes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tkheya871\\source\\repos\\OnBoarding_Training\\JokesWebApp\\Views\\Jokes\\Index.cshtml",
+              "RelativeToolTip": "Views\\Jokes\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T15:10:01.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShowSearchForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\tkheya871\\source\\repos\\OnBoarding_Training\\JokesWebApp\\Views\\Jokes\\ShowSearchForm.cshtml",
+              "RelativeDocumentMoniker": "Views\\Jokes\\ShowSearchForm.cshtml",
+              "ToolTip": "C:\\Users\\tkheya871\\source\\repos\\OnBoarding_Training\\JokesWebApp\\Views\\Jokes\\ShowSearchForm.cshtml",
+              "RelativeToolTip": "Views\\Jokes\\ShowSearchForm.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T14:43:57.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tkheya871\\source\\repos\\OnBoarding_Training\\JokesWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\tkheya871\\source\\repos\\OnBoarding_Training\\JokesWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T14:25:49.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240516142207_InitialSetUp.cs",
+              "DocumentMoniker": "C:\\Users\\tkheya871\\source\\repos\\OnBoarding_Training\\JokesWebApp\\Data\\Migrations\\20240516142207_InitialSetUp.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240516142207_InitialSetUp.cs",
+              "ToolTip": "C:\\Users\\tkheya871\\source\\repos\\OnBoarding_Training\\JokesWebApp\\Data\\Migrations\\20240516142207_InitialSetUp.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240516142207_InitialSetUp.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:22:07.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JokesController.cs",
+              "DocumentMoniker": "C:\\Users\\tkheya871\\source\\repos\\OnBoarding_Training\\JokesWebApp\\Controllers\\JokesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JokesController.cs",
+              "ToolTip": "C:\\Users\\tkheya871\\source\\repos\\OnBoarding_Training\\JokesWebApp\\Controllers\\JokesController.cs",
+              "RelativeToolTip": "Controllers\\JokesController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAYwDkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:21:03.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Jokes.cs",
+              "DocumentMoniker": "C:\\Users\\tkheya871\\source\\repos\\OnBoarding_Training\\JokesWebApp\\Models\\Jokes.cs",
+              "RelativeDocumentMoniker": "Models\\Jokes.cs",
+              "ToolTip": "C:\\Users\\tkheya871\\source\\repos\\OnBoarding_Training\\JokesWebApp\\Models\\Jokes.cs",
+              "RelativeToolTip": "Models\\Jokes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:19:36.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\tkheya871\\source\\repos\\OnBoarding_Training\\JokesWebApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\tkheya871\\source\\repos\\OnBoarding_Training\\JokesWebApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T14:18:08.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tkheya871\\source\\repos\\OnBoarding_Training\\JokesWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tkheya871\\source\\repos\\OnBoarding_Training\\JokesWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T14:17:21.041Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
